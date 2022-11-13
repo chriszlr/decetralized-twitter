@@ -1,4 +1,4 @@
-# decetralized-twitter
+# WEB3 TWITTER
 Twitter running on a Blockchain.
 
 ```
